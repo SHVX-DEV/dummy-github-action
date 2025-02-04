@@ -12,5 +12,5 @@ runs:
   using: 'node18'
   main: 'index.js'
 branding:
-  icon: 'https://raw.githubusercontent.com/RRATHOD-SHVX/dummy-github-action/production/assets/dummy.jpg'
-  color: 'blue'
+  icon: 'award'
+  color: 'green'
