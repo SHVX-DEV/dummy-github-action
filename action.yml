@@ -1,8 +1,8 @@
 name: 'Dummy GitHub Action'
-description: 'This is a simple GitHub Action for SEO testing and payment flow validation.'
+description: 'This is a test repo'
 inputs:
   name:
-    description: 'Your name'
+    description: 'The name to greet'
     required: true
     default: 'GitHub'
 outputs:
