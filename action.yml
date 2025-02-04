@@ -1,0 +1,13 @@
+name: 'Dummy GitHub Action'
+description: 'This is a simple GitHub Action for SEO testing and payment flow validation.'
+inputs:
+  name:
+    description: 'Your name'
+    required: true
+    default: 'GitHub'
+outputs:
+  message:
+    description: 'The message to be printed.'
+runs:
+  using: 'node12'
+  main: 'index.js'

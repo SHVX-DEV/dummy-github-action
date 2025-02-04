@@ -1,0 +1,9 @@
+{
+  "name": "dummy-github-action",
+  "version": "1.0.0",
+  "description": "A dummy GitHub Action for testing SEO and payment flow.",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.9.0"
+  }
+}
