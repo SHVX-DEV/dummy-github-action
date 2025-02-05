@@ -1,5 +1,5 @@
 name: 'Dummy GitHub Action'
-description: 'This is a test repo'
+description: 'This is a test repo #1'
 inputs:
   name:
     description: 'The name to greet'
